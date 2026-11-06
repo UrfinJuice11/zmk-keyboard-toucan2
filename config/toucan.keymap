@@ -86,7 +86,7 @@
 
           caps_word {
               bindings = <&caps_word>;
-              key-positions = <17 18>;
+              key-positions = <13 22>;
               require-prior-idle-ms = <150>;
               timeout-ms = <40>;
           };
